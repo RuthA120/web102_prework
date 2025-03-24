@@ -4,6 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width">
     <link href="style.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0&icon_names=search" />
   </head>
 
   <body>
@@ -15,9 +16,15 @@
 
     <!-- background info about company -->
     <h2>Welcome to Sea Monster!</h2>
-    <div id="description-container">
-        <p>The purpose of our company is to fund independent games. We've been in operation for 12 years.</p>
+    <div id="combined-container">
+        <div id="description-container">
+            <p>The purpose of our company is to fund independent games. We've been in operation for 12 years.</p>
+        </div>
+        <div id="character-container">
+            <img src="./assets/Avatar.png" width="30" height="30" alt="" id="logo">
+        </div>
     </div>
+    
 
     <!-- top games & other interesting stats -->
     <h2>Stats</h2>
@@ -28,7 +35,7 @@
             </p>
         </div>
         <div class="stats-card">
-            <h3>Total Raised</h3>
+            <h3 id="raised-text">Total Raised</h3>
             <p id="total-raised">
             </p>
         </div>
@@ -50,6 +57,14 @@
     <!-- list of games funded by Sea Monster -->
     <h2>Our Games</h2>
     <p>Check out each of our games below!</p>
+    <div class="search-container">
+        <form class="search">
+            <button class="search-button">
+                <span class="search-icon material-symbols-outlined">search</span>
+            </button>
+            <input type="search" class="search-input" placeholder="Search Games">
+        </form>
+    </div>
     <div id="button-container">
         <button id="unfunded-btn">Show Unfunded Only</button>
         <button id="funded-btn">Show Funded Only</button>
