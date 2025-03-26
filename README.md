@@ -29,7 +29,34 @@ Here's a walkthrough of implemented features:
 - - <img src='./assets/Opening-Page.gif' title='Opening Page' width='' alt='Video Walkthrough' />
 
 - Our Games Page: 
-- - <img src='./assets/Opening-Page.gif' title='Our Games Page' width='' alt='Video Walkthrough' />
+- - <img src='./assets/Our-Games-Page.gif' title='Our Games Page' width='' alt='Video Walkthrough' />
+
+- Stats Page: 
+- - <img src='./Stats-Page.gif' title='Stats Page' width='' alt='Video Walkthrough' />
+
+- Show Funded Games Button: 
+- - <img src='./assets/Show-Funded-Button.gif' title='Show Funded Games Button' width='' alt='Video Walkthrough' />
+
+- Show Unfunded Games Button: 
+- - <img src='./assets/Show-Unfunded-Button.gif' title='Show Unfunded Games Button' width='' alt='Video Walkthrough' />
+
+- Show All Games Button: 
+- - <img src='./assets/Show-All-Button.gif' title='Show All Games Button' width='' alt='Video Walkthrough' />
+
+- Search Funded Games: 
+- - <img src='./assets/Search-Show-Funded.gif' title='Search Funded Games' width='' alt='Video Walkthrough' />
+
+- Search Unfunded Games: 
+- - <img src='./assets/Search-Show-Unfunded.gif' title='Search Unfunded Games' width='' alt='Video Walkthrough' />
+
+- Search All Games: 
+- - <img src='./assets/Search-Show-All.gif' title='Search All Games' width='' alt='Video Walkthrough' />
+
+- Avatar Surprise: 
+- - <img src='./assets/Avatar-Surprise.gif' title='Avatar Surprise' width='' alt='Video Walkthrough' />
+
+- Total Raised Surprise: 
+- - <img src='./assets/Total-Raised-Surprise.gif' title='Total Raised Surprise' width='' alt='Video Walkthrough' />
 
 
 
