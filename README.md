@@ -24,25 +24,12 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-## Video Walkthrough
 
-Here's a walkthrough of implemented features:
+- Opening Page: 
+- - <img src='./assets/Opening-Page.gif' title='Opening Page' width='' alt='Video Walkthrough' />
 
-- [Opening Page Walkthrough](./assets/Opening-Page.mp4)
-- [Our Games Page Walkthrough](./assets/Our-Games-Page.mp4)
-- [Stats Page Walkthrough](./assets/Stats-Page.mp4)
-- [Show All Button Function](./assets/Show-All-Button.mp4)
-- [Show Funded Games Button Function](./assets/Show-Funded-Button.mp4)
-- [Show Unfunded Games Button Function](./assets/Show-Unfunded-Button.mp4)
-- [Search for Game](./assets/Search-Show-All.mp4)
-- [Search for Funded Game](./assets/Search-Show-Funded.mp4)
-- [Search for Unfunded Game](./assets/Search-Show-Unfunded.mp4)
-- [Avatar Surprise](./assets/Avatar-Surprise.mp4)
-- [Total Raised Surprise](./assets/Total-Raised-Surprise.mp4)
-
-
-
-
+- Our Games Page: 
+- - <img src='./assets/Opening-Page.gif' title='Our Games Page' width='' alt='Video Walkthrough' />
 
 
 
