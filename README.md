@@ -4,7 +4,7 @@ Submitted by: **Ruth Assefa**
 
 **Ruth's Sea Monster** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **6** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
