@@ -31,15 +31,9 @@ body {
     font-size: 40px;
 }
 
-#character-container {
+#text-container {
     display: flex;
     align-items: center; 
-}
-
-#character-container img{
-    margin-right: 200px;
-    width: 580px;
-    height: 600px;
 }
 
 

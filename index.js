@@ -206,7 +206,6 @@ secondGameContainer.append(secondGameName);
 
 
 
-
 //BONUS FEATURE:
 document.querySelector(".search-input").addEventListener("keydown", function(event) {
     if (event.code === "Space" && this.value.trim().length > 0) {
@@ -250,5 +249,33 @@ function createFallingMoney() {
 
     setTimeout(() => {
         money.remove();
+    }, 3000);
+}
+
+document.getElementById("ruth-avatar").style.cursor = "pointer";
+document.getElementById("ruth-avatar").addEventListener("click", function() {
+    for (let i = 0; i < 20; i++) { 
+        createFallingAvatar();
+    }
+});
+
+function createFallingAvatar() {
+    const avatar = document.createElement("div");
+    avatar.classList.add("falling-avatar");
+    avatar.innerHTML = "<img src=\"./assets/Ruth-Avatar-Short.png\" width=\"70\" height=\"70\">"; 
+
+    document.body.appendChild(avatar);
+
+    avatar.style.position = "absolute"; 
+    avatar.style.left = Math.random() * window.innerWidth + "px";
+    avatar.style.top = "0px"; 
+
+    avatar.animate(
+        [{ transform: "translateY(0px)" }, { transform: `translateY(${window.innerHeight}px)` }],
+        { duration: 3000, easing: "linear" }
+    );
+
+    setTimeout(() => {
+        avatar.remove();
     }, 3000);
 }
