@@ -32,7 +32,7 @@ Here's a walkthrough of implemented features:
 - - <img src='./assets/Our-Games-Page.gif' title='Our Games Page' width='' alt='Video Walkthrough' />
 
 - Stats Page: 
-- - <img src='./Stats-Page.gif' title='Stats Page' width='' alt='Video Walkthrough' />
+- - <img src='./assets/Stats-Page.gif' title='Stats Page' width='' alt='Video Walkthrough' />
 
 - Show Funded Games Button: 
 - - <img src='./assets/Show-Funded-Button.gif' title='Show Funded Games Button' width='' alt='Video Walkthrough' />
@@ -71,7 +71,7 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app:
-    - A challenge I experienced was trying to remember certain Javascript skills/functions such as template literals, ternary operators, etc. But the explanations on each document were extremely helpful with getting a better understanding.
+- A challenge I experienced was trying to remember certain Javascript skills/functions such as template literals, ternary operators, etc. But the explanations on each document were extremely helpful with getting a better understanding.
 
 
 ## License
