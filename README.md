@@ -27,57 +27,57 @@ Here's a walkthrough of implemented features:
 
 - Opening Page: 
 - - <video width="320" height="240" controls>
-  <source src="./assets/Opening-Page.mp4" type="opening-page/mp4">
+  <source src="./assets/Opening-Page.mp4" type="video/mp4">
 </video>
 
 - Our Games Page: 
 - - <video width="320" height="240" controls>
-  <source src="./assets/Our-Games-Page.mp4" type="our-games-page/mp4">
+  <source src="./assets/Our-Games-Page.mp4" type="video/mp4">
 </video>
 
 - Stats Page: 
 - - <video width="320" height="240" controls>
-  <source src="./assets/Stats-Page.mp4" type="stats-page/mp4">
+  <source src="./assets/Stats-Page.mp4" type="video/mp4">
 </video>
 
 - Show All Button Function: 
 - - <video width="320" height="240" controls>
-  <source src="./assets/Show-All-Button.mp4" type="show-all-button/mp4">
+  <source src="./assets/Show-All-Button.mp4" type="video/mp4">
 </video>
 
 - Show All Funded Games Button Function: 
 - - <video width="320" height="240" controls>
-  <source src="./assets/Show-Funded-Button.mp4" type="show-funded-button/mp4">
+  <source src="./assets/Show-Funded-Button.mp4" type="video/mp4">
 </video>
 
 - Show All Unfunded Games Button Function: 
 - - <video width="320" height="240" controls>
-  <source src="./assets/Show-Unfunded-Button.mp4" type="show-unfunded-button/mp4">
+  <source src="./assets/Show-Unfunded-Button.mp4" type="video/mp4">
 </video>
 
 - Search for Game: 
 - - <video width="320" height="240" controls>
-  <source src="./assets/Search-Show-All.mp4" type="search-show-all/mp4">
+  <source src="./assets/Search-Show-All.mp4" type="video/mp4">
 </video>
 
 - Search for Funded Game: 
 - - <video width="320" height="240" controls>
-  <source src="./assets/Search-Show-Funded.mp4" type="search-show-funded/mp4">
+  <source src="./assets/Search-Show-Funded.mp4" type="video/mp4">
 </video>
 
 - Search for Unfunded Game: 
 - - <video width="320" height="240" controls>
-  <source src="./assets/Search-Show-Unfunded.mp4" type="search-show-unfunded/mp4">
+  <source src="./assets/Search-Show-Unfunded.mp4" type="video/mp4">
 </video>
 
 - Avatar Surprise: 
 - - <video width="320" height="240" controls>
-  <source src="./assets/Avatar-Surprise.mp4" type="avatar-surprise/mp4">
+  <source src="./assets/Avatar-Surprise.mp4" type="video/mp4">
 </video>
 
 - Total Raised Surprise: 
 - - <video width="320" height="240" controls>
-  <source src="./assets/Total-Raised-Surprise.mp4" type="total-raised-surprise/mp4">
+  <source src="./assets/Total-Raised-Surprise.mp4" type="video/mp4">
 </video>
 
 
