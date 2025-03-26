@@ -25,49 +25,49 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-- Opening Page: 
+- <strong> Opening Page: </strong>
 Displays the homepage with an introduction and navigation to explore games and statistics.
-- - <img src='./assets/Opening-Page.gif' title='Opening Page' width='' alt='Video Walkthrough' />
+ <img src='./assets/Opening-Page.gif' title='Opening Page' width='' alt='Video Walkthrough' />
 
-- Our Games Page: 
+- <strong> Our Games Page: </strong>
 Showcases a collection of available games, including details and funding status.
-- - <img src='./assets/Our-Games-Page.gif' title='Our Games Page' width='' alt='Video Walkthrough' />
+ <img src='./assets/Our-Games-Page.gif' title='Our Games Page' width='' alt='Video Walkthrough' />
 
-- Stats Page: 
+- <strong> Stats Page: </strong>
 Provides key statistics about game funding, including total funds raised and game breakdowns.
-- - <img src='./assets/Stats-Page.gif' title='Stats Page' width='' alt='Video Walkthrough' />
+ <img src='./assets/Stats-Page.gif' title='Stats Page' width='' alt='Video Walkthrough' />
 
-- Show Funded Games Button: 
+- <strong> Show Funded Games Button: </strong>
 Filters the game list to display only successfully funded games.
-- - <img src='./assets/Show-Funded-Button.gif' title='Show Funded Games Button' width='' alt='Video Walkthrough' />
+ <img src='./assets/Show-Funded-Button.gif' title='Show Funded Games Button' width='' alt='Video Walkthrough' />
 
-- Show Unfunded Games Button: 
+- <strong> Show Unfunded Games Button: </strong>
 Filters the game list to show only games that have not yet reached their funding goal.
-- - <img src='./assets/Show-Unfunded-Button.gif' title='Show Unfunded Games Button' width='' alt='Video Walkthrough' />
+ <img src='./assets/Show-Unfunded-Button.gif' title='Show Unfunded Games Button' width='' alt='Video Walkthrough' />
 
-- Show All Games Button: 
+- <strong> Show All Games Button: </strong>
 Resets the filter to display the full list of games.
-- - <img src='./assets/Show-All-Button.gif' title='Show All Games Button' width='' alt='Video Walkthrough' />
+ <img src='./assets/Show-All-Button.gif' title='Show All Games Button' width='' alt='Video Walkthrough' />
 
-- Search Funded Games: 
+- <strong> Search Funded Games: </strong>
 Allows users to search for specific funded games within the list.
-- - <img src='./assets/Search-Show-Funded.gif' title='Search Funded Games' width='' alt='Video Walkthrough' />
+<img src='./assets/Search-Show-Funded.gif' title='Search Funded Games' width='' alt='Video Walkthrough' />
 
-- Search Unfunded Games: 
+- <strong> Search Unfunded Games: </strong>
 Enables searching for games that are still seeking funding.
-- - <img src='./assets/Search-Show-Unfunded.gif' title='Search Unfunded Games' width='' alt='Video Walkthrough' />
+<img src='./assets/Search-Show-Unfunded.gif' title='Search Unfunded Games' width='' alt='Video Walkthrough' />
 
-- Search All Games: 
+- <strong> Search All Games: </strong>
 Lets users search across the entire game collection, regardless of funding status.
-- - <img src='./assets/Search-Show-All.gif' title='Search All Games' width='' alt='Video Walkthrough' />
+<img src='./assets/Search-Show-All.gif' title='Search All Games' width='' alt='Video Walkthrough' />
 
-- Avatar Surprise: 
+- <strong> Avatar Surprise: </strong>
 Unlocks a hidden animation/effect when the avatar is clicked.
-- - <img src='./assets/Avatar-Surprise.gif' title='Avatar Surprise' width='' alt='Video Walkthrough' />
+ <img src='./assets/Avatar-Surprise.gif' title='Avatar Surprise' width='' alt='Video Walkthrough' />
 
-- Total Raised Surprise: 
+- <strong> Total Raised Surprise: </strong>
 Unlocks a hidden animation/effect when viewing the total funds raised.
-- - <img src='./assets/Total-Raised-Surprise.gif' title='Total Raised Surprise' width='' alt='Video Walkthrough' />
+ <img src='./assets/Total-Raised-Surprise.gif' title='Total Raised Surprise' width='' alt='Video Walkthrough' />
 
 
 <!-- Replace this with whatever GIF tool you used! -->
